@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Scenery
+  - Grass
+  - Orgin
+  - Destination
+  - Spawner
+  - Coin
+  - Ball
+  - Level
+  - PlayerSkin
+  - BallSkin
+  - music
+  - PlayGameService
+  - Line
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Grass
+  - 
+  - 
+  - DestoyArea
+  - Scenery
+  - Columns
+  - Ball
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1959699241
+    locked: 0
+  - name: Midground
+    uniqueID: 2737215443
+    locked: 0
+  - name: Foreground
+    uniqueID: 404910065
+    locked: 0
+  - name: Sparks
+    uniqueID: 1369744519
+    locked: 0
+  - name: Grass
+    uniqueID: 3567414253
+    locked: 0
+  - name: Player
+    uniqueID: 926194697
+    locked: 0
+  - name: Ball
+    uniqueID: 717471899
+    locked: 0
