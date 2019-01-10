@@ -222,7 +222,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: C:/Users/HP/Desktop/Unity Projects/Footballer/mrfootballer.keystore
+  AndroidKeystoreName: C:/Users/HP/Desktop/Projects/mr-footballer/Footballer/mrfootballer.keystore
   AndroidKeyaliasName: mrfootballer
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
@@ -619,7 +619,7 @@ PlayerSettings:
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
     Build: 1
-    Collab: 1
+    Collab: 0
     ErrorHub: 0
     Hub: 0
     UNet: 1
